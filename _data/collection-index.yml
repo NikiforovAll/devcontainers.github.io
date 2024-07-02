@@ -833,4 +833,8 @@
   contact: https://github.com/tcaky/devcontainer-features/issues
   repository: https://github.com/tcaky/devcontainer-features
   ociReference: ghcr.io/tcaky/devcontainer-features
-  
+- name: Devcontainer Features by nikiforovall
+  maintainer: nikiforovall
+  contact: https://github.com/nikiforovall/devcontainer-features/issues
+  repository: https://github.com/nikiforovall/devcontainer-features
+  ociReference: ghcr.io/nikiforovall/devcontainer-features
